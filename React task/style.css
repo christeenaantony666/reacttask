@@ -1,0 +1,51 @@
+
+
+body {
+	position: absolute;
+	left: 0%;
+	text-align: center;
+}
+
+
+
+.container {
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	height: 100%;
+	text-align: center;
+    
+
+}
+
+
+
+button {
+	width: 90px;
+	height: 60px;
+	font-size: 30px;
+	background-color: green;
+	color: honeydew;
+    margin-left: 700px;
+    margin-top: 100px;
+}
+
+button:hover {
+	background-color: greenyellow;
+	color: grey;
+}
+
+
+h2 {
+	color: black;
+	margin: 0 50px;
+	font-size: 45px;
+    margin-left: 730px;
+    margin-top: 100px;
+
+    
+}
+
+
+
+
